@@ -106,6 +106,7 @@ for (var i = 0; i < highscore.length; i++) {
 }
 else{
   console.log("Please accept to Play.");
+  console.log("\nRefresh and Play Again.");og("")
 }
 
 
